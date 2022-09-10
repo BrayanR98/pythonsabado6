@@ -1,5 +1,5 @@
-# pythonsabado6
-### solucion de actividad
+# pythonsabado6 Brayan Restrepo y Yair Arroyo
+### solucion de actividad 
 <p>
 <img src="https://larepublica.pe/resizer/ErtPpPUnHxWEJkkCn6u5tZFUP0Y=/1200x660/top/arc-anglerfish-arc2-prod-gruporepublica.s3.amazonaws.com/public/HRTHCHQ55RCXPNZOCYGQQ6I3TM.png">
 </p>
